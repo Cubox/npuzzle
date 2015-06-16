@@ -6,6 +6,7 @@ School project. A custom version of the npuzzle.
 
 ## How do I use it?
 go build
+
 ./npuzzle
 
 You can check the options with the -h flag
